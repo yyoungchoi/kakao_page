@@ -1,0 +1,1106 @@
+{
+  "mainSlideList": [
+    {
+      "wait": "",
+      "event": "",
+      "thumbnail": "./asset/images/slide1.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "우각 작가전",
+      "desc": "추천작 보면 캐시 선물까지!",
+      "titleThumbnail": "./asset/images/slide1-tit.png",
+      "detail": {
+        "category": "",
+        "genre": "",
+        "view": ""
+      }
+    },
+    {
+      "wait": "",
+      "thumbnail": "./asset/images/slide2.png",
+      "up": "",
+      "new": true,
+      "age": "",
+      "title": "검왕생존기5",
+      "desc": "이계 검왕 생존기, 시즌5로 돌아왔다",
+      "titleThumbnail": "./asset/images/slide2-tit.png",
+      "detail": {
+        "category": "",
+        "genre": "",
+        "view": ""
+      }
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/slide3.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "나혼자만레벨업",
+      "desc": "지금, 레벨업 하시겠습니까?",
+      "titleThumbnail": "./asset/images/slide3-tit.png",
+      "detail": {
+        "category": "웹소설",
+        "genre": "판타지",
+        "view": 430000000
+      }
+    },
+    {
+      "wait": "",
+      "thumbnail": "./asset/images/slide4.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "선물이 쏟아지는 게릴라 던전",
+      "desc": "전원 최대 1천캐시 선물 받으세요!",
+      "titleThumbnail": "./asset/images/slide4-tit.png",
+      "detail": {
+        "category": "",
+        "genre": "",
+        "view": ""
+      }
+    },
+    {
+      "wait": "",
+      "event": true,
+      "thumbnail": "./asset/images/slide5.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "주해온 노블코믹 기획전",
+      "desc": "웹툰&웹소설 함께 달리면서 캐시 받자",
+      "titleThumbnail": "./asset/images/slide5-tit.png",
+      "detail": {
+        "category": "",
+        "genre": "",
+        "view": ""
+      }
+    },
+    {
+      "wait": "",
+      "thumbnail": "./asset/images/slide6.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "카카페 인기작 총 2024화 무료!",
+      "desc": "인기작 정주행 찬스!",
+      "titleThumbnail": "./asset/images/slide6-tit.png",
+      "detail": {
+        "category": "",
+        "genre": "",
+        "view": ""
+      }
+    },
+    {
+      "wait": true,
+      "event": true,
+      "thumbnail": "./asset/images/slide7.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "에필로그가 찾아온다",
+      "desc": "결말 이후의'나'가 찾아왔다",
+      "titleThumbnail": "./asset/images/slide7-tit.png",
+      "detail": {
+        "category": "웹소설",
+        "genre": "판타지",
+        "view": ""
+      }
+    },
+    {
+      "wait": true,
+      "event": true,
+      "thumbnail": "./asset/images/slide8.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "무신귀환록",
+      "desc": "시즌완결화 보고 이벤트 참여!",
+      "titleThumbnail": "./asset/images/slide8-tit.png",
+      "detail": {
+        "category": "웹툰",
+        "genre": "무협",
+        "view": 16710000
+      }
+    }
+  ],
+  "millionList": [
+    {
+      "thumbnail": "./asset/images/million1.jpg",
+      "waitFree": true,
+      "wait": "",
+      "up": "",
+      "new": "",
+      "title": "황제의 외동딸",
+      "category": "웹소설"
+    },
+    {
+      "thumbnail": "./asset/images/million2.jpg",
+      "waitFree": "",
+      "wait": true,
+      "up": "",
+      "new": "",
+      "title": "2레벨로 회귀한 무신",
+      "category": "웹소설"
+    },
+    {
+      "thumbnail": "./asset/images/million4.jpg",
+      "waitFree": "",
+      "wait": true,
+      "up": "",
+      "new": "",
+      "title": "당신의 이해를 돕기 위하여",
+      "category": "웹툰"
+    },
+    {
+      "thumbnail": "./asset/images/million4.png",
+      "waitFree": "",
+      "wait": "true",
+      "up": "",
+      "new": "",
+      "title": "아도니스",
+      "category": "웹툰"
+    },
+    {
+      "thumbnail": "./asset/images/million5.jpg",
+      "waitFree": "",
+      "wait": true,
+      "up": "",
+      "new": "",
+      "title": "로그인 무림",
+      "category": "웹소설"
+    },
+    {
+      "thumbnail": "./asset/images/million6.jpg",
+      "waitFree": "",
+      "wait": true,
+      "up": true,
+      "new": "",
+      "title": "악당의 아빠를 꼬셔라",
+      "category": "웹툰"
+    },
+    {
+      "thumbnail": "./asset/images/million7.jpg",
+      "waitFree": true,
+      "wait": "",
+      "up": "",
+      "new": "",
+      "title": "외과의사 엘리제",
+      "category": "웹툰"
+    },
+    {
+      "thumbnail": "./asset/images/million8.png",
+      "waitFree": "",
+      "wait": true,
+      "up": "",
+      "new": "",
+      "title": "전생검신",
+      "category": "웹소설"
+    },
+    {
+      "thumbnail": "./asset/images/million9.jpg",
+      "waitFree": "",
+      "wait": true,
+      "up": "",
+      "new": "",
+      "title": "샤크",
+      "category": "웹툰"
+    },
+    {
+      "thumbnail": "./asset/images/million10.jpg",
+      "waitFree": "",
+      "wait": true,
+      "up": "",
+      "new": "",
+      "title": "악녀는 두 번 산다",
+      "category": "웹툰"
+    }
+  ],
+  "waitWebtoonList": [
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon1.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "픽미업!",
+      "titleThumbnail": "./asset/images/webtoon1-tit.png",
+      "view": 10299000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon2.png",
+      "up": "",
+      "new": true,
+      "age": "",
+      "title": "어서 와, 저승은 처음이지?",
+      "titleThumbnail": "./asset/images/webtoon2-tit.png",
+      "view": 63000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon3.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "수의사님! 안녕하세요?",
+      "titleThumbnail": "./asset/images/webtoon3-tit.png",
+      "view": 4084000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon4.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "무림에 떨어진 현대인",
+      "titleThumbnail": "./asset/images/webtoon4-tit.png",
+      "view": 8470000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon5.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "만렙 공녀는 오늘도 무료하다",
+      "titleThumbnail": "./asset/images/webtoon5-tit.png",
+      "view": 14265000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon6.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "하녀, 여왕 되다",
+      "titleThumbnail": "./asset/images/webtoon6-tit.png",
+      "view": 4215000
+    }
+  ],
+  "waitnovelList": [
+    {
+      "thumbnail": "./asset/images/novel1.png",
+      "up": "",
+      "new": true,
+      "age": "all",
+      "wait": "true",
+      "novel": true,
+      "title": "선인지로",
+      "titleThumbnail": "./asset/images/novel1-tit.png",
+      "view": 138000
+    },
+    {
+      "thumbnail": "./asset/images/novel2.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "랭커를 위한 바른 생활 안내서",
+      "titleThumbnail": "./asset/images/novel2-tit.png",
+      "view": 79551000
+    },
+    {
+      "thumbnail": "./asset/images/novel3.png",
+      "up": "",
+      "new": true,
+      "age": 15,
+      "wait": "true",
+      "novel": true,
+      "title": "사랑이 아니더라도",
+      "titleThumbnail": "./asset/images/novel3-tit.png",
+      "view": 414000
+    },
+    {
+      "thumbnail": "./asset/images/novel4.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": "true",
+      "novel": true,
+      "title": "남궁세가 망나니는 천마의 제자였다",
+      "titleThumbnail": "./asset/images/novel4-tit.png",
+      "view": 628000
+    },
+    {
+      "thumbnail": "./asset/images/novel5.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": "true",
+      "novel": true,
+      "title": "눈 감고 3점슛",
+      "titleThumbnail": "./asset/images/novel5-tit.png",
+      "view": 2495000
+    },
+    {
+      "thumbnail": "./asset/images/novel6.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": "true",
+      "novel": true,
+      "title": "명가의 역대급 재능천재로 환생했다",
+      "titleThumbnail": "./asset/images/novel6-tit.png",
+      "view": 19165000
+    }
+  ],
+  "actionWebtoonList": [
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/action-webtoon1.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "title": "옥탑방 소드마스터",
+      "titleThumbnail": "./asset/images/action-webtoon-tit1.png",
+      "view": 18660000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/action-webtoon2.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "title": "고란",
+      "titleThumbnail": "./asset/images/action-webtoon-tit2.png",
+      "view": 186000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/action-webtoon3.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "title": "머실리스",
+      "titleThumbnail": "./asset/images/action-webtoon-tit3.png",
+      "view": 187000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/action-webtoon4.png",
+      "up": "",
+      "new": true,
+      "age": 15,
+      "title": "현세용시",
+      "titleThumbnail": "./asset/images/action-webtoon-tit4.png",
+      "view": 88000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/action-webtoon5.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "title": "갓 오브 블랙필드",
+      "titleThumbnail": "./asset/images/action-webtoon-tit5.png",
+      "view": 72891000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/action-webtoon6.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "title": "가드패스",
+      "titleThumbnail": "./asset/images/action-webtoon-tit6.png",
+      "view": 15480000
+    }
+  ],
+  "fantasyNovelList": [
+    {
+      "thumbnail": "./asset/images/fantasy-webtoon1.png",
+      "up": "",
+      "new": true,
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "천재 게이머, 영웅명가에 환생하다",
+      "titleThumbnail": "./asset/images/fantasy-webtoon-tit1.png",
+      "view": 6463000
+    },
+    {
+      "thumbnail": "./asset/images/fantasy-webtoon2.png",
+      "up": "",
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "무공 쓰는 외과 의사",
+      "titleThumbnail": "./asset/images/fantasy-webtoon-tit2.png",
+      "view": 35135000
+    },
+    {
+      "thumbnail": "./asset/images/fantasy-webtoon3.png",
+      "up": "",
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "신마의선",
+      "titleThumbnail": "./asset/images/fantasy-webtoon-tit3.png",
+      "view": 25271000
+    },
+    {
+      "thumbnail": "./asset/images/fantasy-webtoon4.png",
+      "up": "",
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "무기왕이 헌터로 회귀했다",
+      "titleThumbnail": "./asset/images/fantasy-webtoon-tit4.png",
+      "view": 8783000
+    },
+    {
+      "thumbnail": "./asset/images/fantasy-webtoon5.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "회귀자의 증권사 생활",
+      "titleThumbnail": "./asset/images/fantasy-webtoon-tit5.png",
+      "view": 18857000
+    },
+    {
+      "thumbnail": "./asset/images/fantasy-webtoon6.png",
+      "up": "",
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "결혼적령기 무림교관",
+      "titleThumbnail": "./asset/images/fantasy-webtoon-tit6.png",
+      "view": 19407000
+    }
+  ],
+  "dramaWebtoonList": [
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon3.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "수의사님! 안녕하세요?",
+      "titleThumbnail": "./asset/images/webtoon3-tit.png",
+      "view": 4084000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/drama-webtoon1.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "염라를 위한 안내",
+      "titleThumbnail": "./asset/images/drama-webtoon-tit1.png",
+      "view": 408000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/drama-webtoon2.png",
+      "up": true,
+      "new": "",
+      "age": 15,
+      "title": "회귀의 전설",
+      "titleThumbnail": "./asset/images/drama-webtoon-tit2.png",
+      "view": 15723000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/drama-webtoon3.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "인생 2회차 만능 아이돌",
+      "titleThumbnail": "./asset/images/drama-webtoon-tit3.png",
+      "view": 4021000
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/drama-webtoon4.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "삼류호텔 만능셰프",
+      "titleThumbnail": "./asset/images/drama-webtoon-tit4.png",
+      "view": "12453000"
+    },
+    {
+      "wait": true,
+      "thumbnail": "./asset/images/webtoon300-4.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "딸 바보가 되었습니다",
+      "titleThumbnail": "./asset/images/webtoon300-tit4.png",
+      "view": 134598000
+    }
+  ],
+  "roroFanNovelList": [
+    {
+      "thumbnail": "./asset/images/rorofan-novel1.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "흑막 남주의 시한부 유모입니다",
+      "titleThumbnail": "./asset/images/rorofan-novel-tit1.png",
+      "view": 9268000
+    },
+    {
+      "thumbnail": "./asset/images/novel2.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "랭커를 위한 바른 생활 안내서",
+      "titleThumbnail": "./asset/images/novel2-tit.png",
+      "view": 79551000
+    },
+    {
+      "thumbnail": "./asset/images/rorofan-novel2.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "망나니 악녀가 돌아왔다",
+      "titleThumbnail": "./asset/images/rorofan-novel-tit2.png",
+      "view": 12668000
+    },
+    {
+      "thumbnail": "./asset/images/rorofan-novel3.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "wait": "",
+      "waitFree": true,
+      "novel": true,
+      "title": "사내 욕망",
+      "titleThumbnail": "./asset/images/rorofan-novel-tit3.png",
+      "view": 3849000
+    },
+    {
+      "thumbnail": "./asset/images/rorofan-novel4.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "wait": true,
+      "waitFree": "",
+      "novel": true,
+      "title": "아내 실종",
+      "titleThumbnail": "./asset/images/rorofan-novel-tit4.png",
+      "view": 1817000
+    },
+    {
+      "thumbnail": "./asset/images/rorofan-novel5.png",
+      "up": "",
+      "new": "",
+      "age": 15,
+      "wait": true,
+      "waitFree": "",
+      "novel": true,
+      "title": "질 나쁜 계약 남편",
+      "titleThumbnail": "./asset/images/rorofan-novel-tit5.png",
+      "view": 716000
+    }
+  ],
+  "romanceWebtoonList": [
+    {
+      "thumbnail": "./asset/images/romance-webtoon1.png",
+      "wait": true,
+      "up": true,
+      "new": "",
+      "age": 15,
+      "title": "결혼 사정",
+      "titleThumbnail": "./asset/images/romance-webtoon-tit1.png",
+      "view": 2849000
+    },
+    {
+      "thumbnail": "./asset/images/romance-webtoon2.png",
+      "wait": true,
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "낙화유수",
+      "titleThumbnail": "./asset/images/romance-webtoon-tit2.png",
+      "view": 6573000
+    },
+    {
+      "thumbnail": "./asset/images/romance-webtoon3.png",
+      "wait": true,
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "100일의 로맨스",
+      "titleThumbnail": "./asset/images/romance-webtoon-tit3.png",
+      "view": 1431000
+    },
+    {
+      "thumbnail": "./asset/images/romance-webtoon4.png",
+      "wait": true,
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "아기 후궁님은 조용히 살고 싶어",
+      "titleThumbnail": "./asset/images/romance-webtoon-tit4.png",
+      "view": 13317000
+    },
+    {
+      "thumbnail": "./asset/images/webtoon2.png",
+      "wait": true,
+      "up": "",
+      "new": true,
+      "age": "",
+      "title": "어서 와, 저승은 처음이지?",
+      "titleThumbnail": "./asset/images/webtoon2-tit.png",
+      "view": 63000
+    },
+    {
+      "thumbnail": "./asset/images/romance-webtoon5.png",
+      "wait": true,
+      "up": "",
+      "new": "",
+      "age": "",
+      "title": "너를 만지면",
+      "titleThumbnail": "./asset/images/romance-webtoon-tit5.png",
+      "view": 3849000
+    }
+  ],
+  "newNovelList": [
+    {
+      "thumbnail": "./asset/images/new-novel1.png",
+      "up": "",
+      "new": true,
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "무협지 최고의 악당이 되겠어!",
+      "titleThumbnail": "./asset/images/new-novel-tit1.png",
+      "view": 252000
+    },
+    {
+      "thumbnail": "./asset/images/new-novel2.png",
+      "up": "",
+      "new": true,
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "천하제일 가문으로 키우겠습니다",
+      "titleThumbnail": "./asset/images/new-novel-tit2.png",
+      "view": 839000
+    },
+    {
+      "thumbnail": "./asset/images/new-novel3.png",
+      "up": true,
+      "new": "",
+      "age": 15,
+      "wait": true,
+      "novel": true,
+      "title": "친애하는 계약 남편에게",
+      "titleThumbnail": "./asset/images/new-novel-tit3.png",
+      "view": 164000
+    },
+    {
+      "thumbnail": "./asset/images/new-novel4.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "회귀했더니 무인이 되었다",
+      "titleThumbnail": "./asset/images/new-novel-tit4.png",
+      "view": 2158000
+    },
+    {
+      "thumbnail": "./asset/images/new-novel5.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "야구는 나쁜 놈이 잘한다",
+      "titleThumbnail": "./asset/images/new-novel-tit5.png",
+      "view": 4338000
+    },
+    {
+      "thumbnail": "./asset/images/new-novel6.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "무당광마",
+      "titleThumbnail": "./asset/images/new-novel-tit6.png",
+      "view": 1254000
+    }
+  ],
+  "publishFreeList": [
+    {
+      "thumbnail": "./asset/images/publish-free-webtoon1.png",
+      "publish": true,
+      "up": true,
+      "new": "",
+      "age": 15,
+      "title": "VR 히어로",
+      "titleThumbnail": "./asset/images/publish-free-webtoon-tit1.png",
+      "view": 655000
+    },
+    {
+      "thumbnail": "./asset/images/publish-free-webtoon2.png",
+      "publish": "",
+      "waitFree": true,
+      "up": "",
+      "new": "",
+      "age": "",
+      "title": "더 익스트림",
+      "titleThumbnail": "./asset/images/publish-free-webtoon-tit2.png",
+      "view": 1657000
+    },
+    {
+      "thumbnail": "./asset/images/publish-free-webtoon3.png",
+      "publish": true,
+      "up": true,
+      "new": "",
+      "age": 15,
+      "title": "주작학원",
+      "titleThumbnail": "./asset/images/publish-free-webtoon-tit3.png",
+      "view": 317000
+    },
+    {
+      "thumbnail": "./asset/images/publish-free-webtoon4.png",
+      "publish": true,
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "이번 인생 목표는 이층집 마련",
+      "titleThumbnail": "./asset/images/publish-free-webtoon-tit4.png",
+      "view": 877000
+    },
+    {
+      "thumbnail": "./asset/images/publish-free-webtoon5.png",
+      "publish": true,
+      "up": true,
+      "new": "",
+      "age": "",
+      "title": "플레누스",
+      "titleThumbnail": "./asset/images/publish-free-webtoon-tit5.png",
+      "view": 416000
+    },
+    {
+      "thumbnail": "./asset/images/publish-free-webtoon6.png",
+      "publish": true,
+      "up": "",
+      "new": "",
+      "age": "",
+      "title": "철쭉의 묘",
+      "titleThumbnail": "./asset/images/publish-free-webtoon-tit6.png",
+      "view": 336000
+    }
+  ],
+  "shortcutList": [
+    {
+      "thumbnail": "./asset/images/slide-shortcut1.png",
+      "up": "",
+      "new": true,
+      "age": "",
+      "event": true,
+      "wait": "",
+      "novel": "",
+      "title": "매일 캐시 받으세요 캐시스테이션!",
+      "titleThumbnail": "./asset/images/slide-shortcut-tit1.png",
+      "text": "매일 최대 1천캐시까지"
+    },
+    {
+      "thumbnail": "./asset/images/event4.png",
+      "up": "",
+      "event": true,
+      "new": true,
+      "age": "",
+      "wait": "",
+      "novel": "",
+      "title": "폭군의 누나로 산다는 것은",
+      "titleThumbnail": "./asset/images/event-tit4.png",
+      "text": 15254000
+    },
+    {
+      "thumbnail": "./asset/images/new-novel2.png",
+      "up": "",
+      "new": true,
+      "age": "",
+      "wait": true,
+      "novel": "",
+      "title": "천하제일 가문으로 키우겠습니다",
+      "titleThumbnail": "./asset/images/new-novel-tit2.png",
+      "text": 839000
+    },
+    {
+      "thumbnail": "./asset/images/slide-shortcut3.png",
+      "up": "",
+      "new": "",
+      "age": "",
+      "event": true,
+      "wait": "",
+      "novel": "",
+      "title": "주말 캐시버프",
+      "titleThumbnail": "./asset/images/slide-shortcut-tit3.png",
+      "text": "전원 최대 4천캐시까지"
+    },
+    {
+      "thumbnail": "./asset/images/new-novel4.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": "",
+      "title": "회귀했더니 무인이 되었다",
+      "titleThumbnail": "./asset/images/new-novel-tit4.png",
+      "text": 2158000
+    },
+    {
+      "thumbnail": "./asset/images/novel300-1.png",
+      "up": true,
+      "new": "",
+      "age": "",
+      "wait": true,
+      "novel": true,
+      "title": "흑백무제",
+      "titleThumbnail": "./asset/images/novel300-tit1.png",
+      "text": 220000000
+    }
+  ],
+  "top300WebtoonList": [
+    {
+      "thumbnail": "./asset/images/webtoon300-1.png",
+      "up": "",
+      "new": true,
+      "wait": true,
+      "title": "용사 파티 때려치웁니다",
+      "titleThumbnail": "./asset/images/webtoon300-tit1.png",
+      "ranking": {
+        "curr": 1,
+        "up": "",
+        "down": ""
+      }
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-2.png",
+      "up": "",
+      "new": "",
+      "wait": true,
+      "title": "나 혼자 레벨업",
+      "titleThumbnail": "./asset/images/webtoon300-tit2.png",
+      "ranking": {
+        "curr": 2,
+        "up": "",
+        "down": ""
+      }
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-3.png",
+      "up": true,
+      "new": "",
+      "wait": true,
+      "title": "친구는 소중히 대해주세요",
+      "titleThumbnail": "./asset/images/webtoon300-tit3.png",
+      "ranking": {
+        "curr": 3,
+        "up": "",
+        "down": ""
+      }
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-4.png",
+      "up": true,
+      "new": "",
+      "wait": true,
+      "title": "딸 바보가 되었습니다",
+      "titleThumbnail": "./asset/images/webtoon300-tit4.png",
+      "ranking": {
+        "curr": 4,
+        "up": "",
+        "down": ""
+      }
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-5.png",
+      "up": "",
+      "new": "",
+      "wait": true,
+      "title": "인소의 법칙",
+      "titleThumbnail": "./asset/images/webtoon300-tit5.png",
+      "ranking": {
+        "curr": 4,
+        "up": "",
+        "down": ""
+      }
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-6.png",
+      "up": "",
+      "new": "",
+      "wait": true,
+      "title": "당신의 이해를 돕기 위하여",
+      "titleThumbnail": "./asset/images/webtoon300-tit6.png",
+      "ranking": {
+        "curr": 4,
+        "up": "",
+        "down": ""
+      }
+    }
+  ],
+  "top300NovelList": [
+    {
+      "thumbnail": "./asset/images/novel300-1.png",
+      "up": true,
+      "wait": true,
+      "title": "흑백무제",
+      "titleThumbnail": "./asset/images/novel300-tit1.png",
+      "ranking": {
+        "curr": 1,
+        "up": 0,
+        "down": 0
+      }
+    },
+    {
+      "thumbnail": "./asset/images/novel2.png",
+      "up": "",
+      "wait": true,
+      "title": "랭커를 위한 바른 생활 안내서",
+      "titleThumbnail": "./asset/images/novel2-tit.png",
+      "ranking": {
+        "curr": 2,
+        "up": 1,
+        "down": 0
+      }
+    },
+    {
+      "thumbnail": "./asset/images/novel300-2.png",
+      "up": true,
+      "wait": "",
+      "title": "블랙기업 조선",
+      "titleThumbnail": "./asset/images/novel300-tit2.png",
+      "ranking": {
+        "curr": 3,
+        "up": 0,
+        "down": 1
+      }
+    },
+    {
+      "thumbnail": "./asset/images/novel4.png",
+      "up": true,
+      "wait": true,
+      "title": "남궁세가 망나니는 천마의 제자였다",
+      "titleThumbnail": "./asset/images/novel4-tit.png",
+      "ranking": {
+        "curr": 4,
+        "up": 2,
+        "down": 0
+      }
+    },
+    {
+      "thumbnail": "./asset/images/novel300-3.png",
+      "up": true,
+      "wait": true,
+      "title": "환생한 암살자는 검술 천재",
+      "titleThumbnail": "./asset/images/novel300-tit3.png",
+      "ranking": {
+        "curr": 5,
+        "up": 0,
+        "down": 1
+      }
+    },
+    {
+      "thumbnail": "./asset/images/novel300-4.png",
+      "up": true,
+      "wait": true,
+      "title": "연애 같은 짓",
+      "age": 15,
+      "titleThumbnail": "./asset/images/novel300-tit4.png",
+      "ranking": {
+        "curr": 6,
+        "up": 0,
+        "down": 1
+      }
+    }
+  ],
+  "eventList": [
+    {
+      "thumbnail": "./asset/images/event1.png",
+      "title": "환생무제",
+      "titleThumbnail": "./asset/images/event-tit1.png",
+      "desc": "신작 런칭 이벤트!"
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-3.png",
+      "title": "친구는 소중히 대해주세요",
+      "titleThumbnail": "./asset/images/webtoon300-tit3.png",
+      "desc": "시즌2 오픈 이벤트!"
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-4.png",
+      "title": "딸 바보가 되었습니다-단 이틀간 50화무료",
+      "titleThumbnail": "./asset/images/event-tit2.png",
+      "desc": "연두가 케시 쏜다!"
+    },
+    {
+      "thumbnail": "./asset/images/webtoon6.png",
+      "title": "하녀, 여왕 되다",
+      "titleThumbnail": "./asset/images/webtoon6-tit.png",
+      "desc": "본편 완결 이벤트!"
+    },
+    {
+      "thumbnail": "./asset/images/event3.png",
+      "title": "노다메 칸다빌레 신장판",
+      "titleThumbnail": "./asset/images/event-tit3.png",
+      "desc": "3다무 + 캐시!"
+    },
+    {
+      "thumbnail": "./asset/images/webtoon5.png",
+      "title": "만렙 공녀는 오늘도 무료하다",
+      "titleThumbnail": "./asset/images/webtoon5-tit.png",
+      "desc": "최종 완결 이벤트!"
+    },
+    {
+      "thumbnail": "./asset/images/webtoon2.png",
+      "title": "어서 와, 저승은 처음이지?",
+      "titleThumbnail": "./asset/images/webtoon2-tit.png",
+      "desc": "신작 런칭 이벤트!"
+    },
+    {
+      "thumbnail": "./asset/images/event4.png",
+      "title": "폭군의 누나로 산다는 것은",
+      "titleThumbnail": "./asset/images/event-tit4.png",
+      "desc": "외전 오픈 기념!"
+    },
+    {
+      "thumbnail": "./asset/images/webtoon300-1.png",
+      "title": "용사 파티 때려치웁니다",
+      "titleThumbnail": "./asset/images/webtoon300-tit1.png",
+      "desc": "전설의 작품 런칭!"
+    },
+    {
+      "thumbnail": "./asset/images/novel300-4.png",
+      "title": "연애 같은 짓",
+      "titleThumbnail": "./asset/images/novel300-tit4.png",
+      "desc": "최대 3천 캐시!"
+    },
+    {
+      "thumbnail": "./asset/images/event6.png",
+      "title": "SSS급 창고 캐릭터로 살아남기",
+      "titleThumbnail": "./asset/images/event-tit6.png",
+      "desc": "신작 런칭 이벤트!"
+    },
+    {
+      "thumbnail": "./asset/images/event5.png",
+      "title": "게이트에 쉘터를 숨김",
+      "titleThumbnail": "./asset/images/event-tit5.png",
+      "desc": "최대 3천 캐시!"
+    }
+  ]
+}

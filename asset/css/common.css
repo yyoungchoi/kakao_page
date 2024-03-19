@@ -1,0 +1,133 @@
+.on {
+  display: block;
+}
+/* swiper navi button */
+.swiper .button-wrap {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  z-index: 10;
+  pointer-events: none;
+}
+.swiper .button-wrap .btn {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 100%;
+  cursor: pointer;
+  pointer-events: auto;
+}
+.banner-wrap {
+  position: relative;
+  padding: 0 11px;
+}
+.banner-wrap .link-banner {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 12px;
+}
+.banner-wrap .banner-box {
+  display: flex;
+  align-items: center;
+  background: #eee;
+  border-radius: 0.5em;
+  height: 2.75rem;
+}
+.banner-wrap .banner-box .banner-img-l {
+  width: 32px;
+  height: 32px;
+  margin-right: 0.25rem;
+  margin-left: 0.625rem;
+}
+.banner-wrap .banner-box .banner-img-r {
+  width: 24px;
+  height: 24px;
+  margin-right: 0.625rem;
+  margin-left: 0.625rem;
+}
+.banner-wrap .banner-box span {
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+.banner-wrap .banner-box span {
+  flex: 1 1 0%;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+.banner-wrap [class*="download-box"] {
+  position: relative;
+  overflow: hidden;
+  height: auto;
+  border-radius: 16px;
+  padding: 0 74px;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(247, 247, 247, 1);
+}
+.banner-wrap .download-box-m {
+  padding: 0;
+  height: 110px;
+  margin-bottom: 24px;
+}
+.download-box-m img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+.banner-wrap .download {
+  position: absolute;
+  top: 56px;
+  display: flex;
+  gap: 4px;
+}
+.headline-wrap {
+  padding: 0 15px 8px;
+  display: flex;
+  height: 52px;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.headline-wrap h2 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+.badge-box {
+  position: absolute;
+  display: flex;
+  top: 4px;
+  left: 4px;
+  gap: 4px;
+}
+.badge-box-r {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+}
+.badge-box-b {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+.wait,
+.waitfree,
+.publish-free,
+.new,
+.up,
+.event {
+  z-index: 1;
+}

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>카카오페이지</title>
+  <link rel="shortcut icon" type="image/x-icon" size="16x16" href="./asset/images/favicon.ico" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="./asset/css/layout.css" />
+  <link rel="stylesheet" href="./asset/css/main.css" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="./asset/js/main.js" defer=""></script>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <div class="inner">
+          <h1 class="logo">
+            <a href="" class="link-logo">
+              <span class="blind">kakaopage 로고</span>
+            </a>
+          </h1>
+          <nav class="gnb">
+            <ul class="gnb-area">
+              <li class="gnb-item on">
+                <a href="" class="link-gnb"><span class="on underline">추천</span></a>
+              </li>
+              <li class="gnb-item">
+                <a href="" class="link-gnb"><span class="underline">웹툰</span></a>
+              </li>
+              <li class="gnb-item">
+                <a href="" class="link-gnb"><span class="underline">웹소설</span></a>
+              </li>
+              <li class="gnb-item">
+                <a href="" class="link-gnb"><span class="underline">책</span></a>
+              </li>
+              <li class="gnb-item">
+                <a href="" class="link-gnb"><span class="underline">바로가기</span></a>
+              </li>
+            </ul>
+            <div class="search-area">
+              <form action="" method="get">
+                <fieldset>
+                  <legend class="blind">검색</legend>
+                  <input value="" name="search-contents" maxlength="50" placeholder="제목, 작가를 입력하세요." />
+                  <a href="" aria-label="검색버튼">
+                    <img src="./asset/images/search.svg" alt />
+                  </a>
+                </fieldset>
+              </form>
+            </div>
+            <div class="util-area">
+              <a href="" class="link-gnb">
+                <img src="./asset/images/stage.svg" alt="스테이지" />
+              </a>
+              <a href="" class="link-gnb">
+                <img src="./asset/images/locker.svg" alt="보관함" />
+              </a>
+              <a href="" class="link-gnb">
+                <img src="./asset/images/present.svg" alt="선물함" />
+              </a>
+              <a href="">
+                <img src="./asset/images/mypage.svg" alt="내정보" />
+              </a>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <main>
+        <nav class="local-nav">
+          <ul>
+            <li class="black">
+              <a href="">
+                <img src="./asset/images/li1.png" alt />
+                <span>지금핫한</span>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <img src="./asset/images/li2.png" alt />
+                <span>실시간 랭킹</span></a
+              >
+            </li>
+            <li>
+              <a href="">
+                <img src="./asset/images/li3.png" alt />
+                <span>오늘 신작</span>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <img src="./asset/images/li4.png" alt />
+                <span>이벤트</span>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <img src="./asset/images/li5.png" alt />
+                <span>남성인기</span>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <img src="./asset/images/li6.png" alt />
+                <span>완결추천</span>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <img src="./asset/images/li7.png" alt />
+                <span>완전판</span>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <img src="./asset/images/li8.png" alt />
+                <span>여성인기</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <div class="banner-wrap">
+          <a href="" class="link-banner">
+            <div class="banner-box">
+              <img class="banner-img-l" src="./asset/images/resource1.png" alt="나혼자레벨업-좌측이미지" />
+              <span>지금, 레벨업 하시겠습니까?</span>
+              <img class="banner-img-r" src="./asset/images/resource2.png" alt="더보기이미지-우측이미지" />
+            </div>
+          </a>
+        </div>
+        <section class="sc-visual">
+          <h2 class="blind">메인슬라이드</h2>
+          <div class="swiper">
+            <div class="swiper-wrapper" id="mainSlideList"></div>
+            <div class="pagination"></div>
+            <div class="button-wrap">
+              <div class="btn prev">
+                <img src="./asset/images/prev.svg" alt="이전버튼" />
+              </div>
+              <div class="btn next">
+                <img src="./asset/images/next.svg" alt="다음버튼" />
+              </div>
+            </div>
+          </div>
+          <div class="slide-shortcut" id="shortcutList"></div>
+        </section>
+        <section class="sc-million">
+          <div class="headline-wrap">
+            <h2>밀리언페이지</h2>
+          </div>
+          <div class="swiper">
+            <div class="swiper-wrapper" id="millionList"></div>
+            <div class="button-wrap">
+              <div class="btn prev">
+                <img src="./asset/images/prev.svg" alt="이전버튼" />
+              </div>
+              <div class="btn next">
+                <img src="./asset/images/next.svg" alt="다음버튼" />
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- 기다무 -->
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>3다무-3시간마다무료 웹툰</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="waitWebtoonList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>3다무-3시간마다무료 웹소설</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="waitnovelList"></div>
+        </section>
+        <!--장르추천 -->
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>추천 액션 웹툰</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="actionWebtoonList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>추천 판현무 웹소설</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="fantasyNovelList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>추천 드라마 웹툰</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="dramaWebtoonList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>추천 로로판 웹소설</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="roroFanNovelList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>추천 로맨스 웹툰</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="romanceWebtoonList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>추천 신작 웹소설</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="newNovelList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>추천 연재무료 웹툰</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="publishFreeList"></div>
+        </section>
+        <!--Top 300  -->
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>웹툰 Top 300</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="top300WebtoonList"></div>
+        </section>
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>웹소설 Top 300</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="top300NovelList"></div>
+        </section>
+        <!-- 이벤트  -->
+        <section class="sc-content">
+          <div class="headline-wrap">
+            <h2>놓칠 수 없는 이벤트 모음</h2>
+            <img src="./asset/images/more.svg" alt="다음페이지로이동" />
+          </div>
+          <div class="content-wrap" id="eventList"></div>
+        </section>
+
+        <div class="banner-wrap">
+          <div class="download-box">
+            <img src="./asset/images/img_install_banner_pc.webp" alt="" />
+            <div class="download">
+              <a href="" class="link-googleplay">
+                <img src="./asset/images/install_banner_googleplay_pc.svg" alt="구글플레이이미지" />
+              </a>
+              <a href="" class="link-appstore">
+                <img src="./asset/images/install_banner_appstore_pc.svg" alt="앱스토어이미지" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer class="footer">
+        <h2 class="blind">카카오페이지 푸터</h2>
+        <div class="inner">
+          <ul class="policy-list">
+            <li><a href="">회사소개</a></li>
+            <li><a href="">이용약관</a></li>
+            <li>
+              <a href=""><strong>개인정보처리방침</strong></a>
+            </li>
+            <li><a href="">청소년보호정책</a></li>
+            <li><a href="">공지사항</a></li>
+          </ul>
+          <div class="info-list">
+            <div class="info-box">
+              <span>대표자 이진수, 김성수</span>
+              <span>호스팅서비스사업자 (주)카카오엔터테인먼트</span>
+              <a href="">사업자 정보 확인</a>
+            </div>
+            <div class="info-box">
+              <span>사업자 등록 번호 220-88-02594</span>
+              <span>통신판매업신고 2018-성남분당B-0004</span>
+            </div>
+            <div class="info-box">
+              <span>대표전화 1644-4755</span>
+              <span>이메일 contact@kakaopage.com</span>
+              <span>경기도 성남시 분당구 판교역로 221</span>
+            </div>
+          </div>
+          <small class="f-logo">ⓒ Kakao Entertainment Corp.</small>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
