@@ -1,18 +1,28 @@
 // header
-$(".local-nav li").on("click", function (e) {
-  e.preventDefault();
-  $(this).addClass("black");
-  if ($(this).siblings().hasClass("black")) {
-    $(this).siblings().removeClass("black");
-  }
+document.querySelectorAll(".local-nav li").forEach(function (item) {
+  item.addEventListener("click", function (e) {
+    e.preventDefault();
+    item.classList.add("black");
+    document.querySelectorAll(".local-nav li").forEach(function (sibling) {
+      if (sibling !== item && sibling.classList.contains("black")) {
+        sibling.classList.remove("black");
+      }
+    });
+  });
 });
-$(".gnb-area li").on("click", function (e) {
-  e.preventDefault();
-  $(this).addClass("on");
-  if ($(this).siblings().hasClass("on")) {
-    $(this).siblings().removeClass("on");
-  }
+
+document.querySelectorAll(".gnb-area li").forEach(function (item) {
+  item.addEventListener("click", function (e) {
+    e.preventDefault();
+    item.classList.add("on");
+    document.querySelectorAll(".gnb-area li").forEach(function (sibling) {
+      if (sibling !== item && sibling.classList.contains("on")) {
+        sibling.classList.remove("on");
+      }
+    });
+  });
 });
+
 // main
 
 const millionSlide = new Swiper(".sc-million .swiper", {
@@ -298,7 +308,7 @@ fetch("./asset/data/data.json")
   });
 
 function viewNumFormat(num) {
-  var unit = "";
+  let unit = "";
   if (num >= 100000000) {
     unit = "억";
     num /= 100000000; //num = num / 100000000;
@@ -307,7 +317,7 @@ function viewNumFormat(num) {
     num /= 10000; //num = num / 10000
   }
 
-  var result = new Intl.NumberFormat("ko-KR", {
+  const result = new Intl.NumberFormat("ko-KR", {
     //locale
     style: "decimal", //(천 단위마다 쉼표로 구분/ 정수,소수로 구분 )
     minimumFractionDigits: 0,
